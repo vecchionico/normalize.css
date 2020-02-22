@@ -1,4 +1,4 @@
-# Changes to normalize.css
+# Changes to normalize.css from [necolas/normalize.css](https://github.com/necolas/normalize.css)
 
 ### 8.0.1 (November 4, 2018)
 
